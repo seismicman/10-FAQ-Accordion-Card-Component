@@ -43,7 +43,7 @@ Regarding the functionality of this challenge, I used a JSON file to access the 
 
 ### Continued development
 
-I would like to continue developing this challenges using React as main resource and complementing with other ones as HTML5, CSS, SAAS, among others.
+I would like to continue developing this challenges using React as main resource and complementing with other ones as HTML5, CSS, SAAS, Bootstrap, Tailwind among others.
 
 ### Useful resources
 
