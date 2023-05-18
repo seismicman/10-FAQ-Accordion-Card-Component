@@ -16,7 +16,7 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
 ## Overview
 
-### Screenshot
+### Screenshots
 
 ![](./src/assets/images/screenshot1.jpg)
 
