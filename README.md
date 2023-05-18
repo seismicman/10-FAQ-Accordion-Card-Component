@@ -39,11 +39,11 @@ Solution URL: [https://seismicman.github.io/10-FAQ-Accordion-Card-Component/](ht
 
 Although this is a project that we can mainly develop in HTML and CSS, I developed it in React as a single component and CSS for the styles. This is an important challenge to understand CSS positioning very well: some images were located with "absolute" and others with "relative". Other tool so useful to develop this challenge was the CSS short hand "background", including others as "background-image","background-position", "background-size", "background-repeat among others. Also, it was very useful to understand Flexbox to organize the different components of the User Interface and the use of media queries to switch between desktop and mobile versions.
 
-Regarding the functionality of this challenge, I used a JSON file to access the questions and answers, which were handled with a "usestate" . Another "usestate" was used to determine which question was selected and therefore trigger all related events.
+Regarding the functionality of this challenge, I used a JSON file to access the questions and answers, which were handled with a "usestate". Another "usestate" was used to determine which question was selected and therefore trigger all related events.
 
 ### Continued development
 
-I would like to continue developing this challenges using React as main resource and complementing with other ones as HTML5, CSS, SAAS, among others
+I would like to continue developing this challenges using React as main resource and complementing with other ones as HTML5, CSS, SAAS, among others.
 
 ### Useful resources
 
